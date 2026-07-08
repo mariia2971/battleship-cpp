@@ -66,4 +66,5 @@ struct MsgFireResult {
 
 };
 
+//returning the standard alignment
 #pragma pack(pop)
